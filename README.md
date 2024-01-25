@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Dev Env Setup
 
-Install Dependancies
+Install Dependencies
 
 `npm install`
 
